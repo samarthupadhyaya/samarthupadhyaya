@@ -1,5 +1,3 @@
-![logo](https://github.com/samarthupadhyaya/samarthupadhyaya/blob/main/web%20dev.jpg)
-
 <h1 align="center">Hi 👋, I'm Samarth Upadhyaya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
