@@ -7,7 +7,9 @@
 
 - 📫 How to reach me **samarth.upadhyaya2001@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- i am learning Full Stack Web development
+
+- ⚡ Fun fact **I still watch doremon and i am funny and passionate**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
