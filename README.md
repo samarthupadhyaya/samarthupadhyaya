@@ -1,4 +1,4 @@
-![logo](https://github.com/samarthupadhyaya/samarth_readme/blob/main/samarth%20banner.jpg)
+![logo](https://github.com/samarthupadhyaya/samarthupadhyaya/blob/main/samarth%20banner.jpg)
 <h1 align="center">Hi 👋, I'm Samarth Upadhyaya</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
